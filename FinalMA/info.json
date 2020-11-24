@@ -1,0 +1,44 @@
+[
+{
+    "id":1001,
+    "name":"Push Day",
+    "imageName":"chest",
+    "description":"In the “push” workout you train all the upper body pushing muscles, i.e. the chest, shoulders and triceps. \nHere is a starter workout:\nBench Press 4x10\nTricep Extensions 3x16/nIncline DB Press 4x12\nDips 3x10\nDecline Barbell Press 4x10\nTricep Overhead Presses 4x20",
+    "category":"routines"
+},
+{
+    "id":1002,
+    "name":"Pull Day",
+    "imageName":"back",
+    "description":"In the “pull” workout you train all the upper body pulling muscles, i.e. the back and biceps.\nHere is a starter workout:\nLat Pulldowns 4x12\nBicep Curls 4x12\nSingle-arm DB Rows 4x8\nPreacher Curls 3x12\nPull-ups 3xFailure",
+    "category":"routines"
+},
+{
+    "id":1003,
+    "name":"Leg Day",
+    "imageName":"legs",
+    "description":"And in the “legs” workout you train the entire lower body, i.e. the quads, hamstrings, calves and abdominals.\nHere is a starter workout\nBarbell Squats 5x5\nCalf Raises 4x20\nLeg Extensions 3x16\nHamstring Curls 3x12\nWeighted DB Lunges 4x12",
+    "category":"routines"
+},
+{
+    "id":1004,
+    "name":"Bench Press",
+    "imageName":"bench",
+    "description":"If you have a BIG Bench, then your entire upper body is well developed!\nLike most lifts, the bench press is a lift where some people love it and some hate it. Those that hate it, are usually the ones that don’t understand it and do it wrong. However, if you learn how to do it right, it can be just as good as any of your other lifts.",
+    "category":"compounds"
+},
+{
+    "id":1005,
+    "name":"Squat",
+    "imageName":"squat",
+    "description":"The Squat is known as the “King of All Exercises” because it builds muscle mass throughout your entire body and tests your full body strength all in one powerful lift. The Bench Press and Deadlift have their own place in the strength world, but having a big squat makes you King and Queen to others.",
+    "category":"compounds"
+},
+{
+    "id":1006,
+    "name":"Deadlift",
+    "imageName":"deadlift",
+    "description":"The Deadlift is one of the most brutal and beneficial lifts there is. It is brutal because you have to lift a heavy weight from a dead stop, starting in a disadvantaged position. But it is so beneficial because it improves ALL of your other lifts!\nThe Deadlift builds muscle mass throughout your entire body and tests your full body strength like nothing else can. Nothing can improve your hip, core, back, and grip strength as much as deadlifts. And nothing can replace it.",
+    "category":"compounds"
+}
+]
